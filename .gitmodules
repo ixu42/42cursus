@@ -25,9 +25,6 @@
 [submodule "cub3D"]
 	path = cub3D
 	url = https://github.com/ixu42/cub3D.git
-[submodule "net_practice"]
-	path = net_practice
-	url = https://github.com/ixu42/net_practice.git
 [submodule "cpp_modules"]
 	path = cpp_modules
 	url = https://github.com/ixu42/cpp_modules.git
