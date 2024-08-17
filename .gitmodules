@@ -28,3 +28,6 @@
 [submodule "cpp_modules"]
 	path = cpp_modules
 	url = https://github.com/ixu42/cpp_modules.git
+[submodule "webserv"]
+	path = webserv
+	url = https://github.com/ixu42/webserv.git
