@@ -34,3 +34,6 @@
 [submodule "inception"]
 	path = inception
 	url = https://github.com/ixu42/inception.git
+[submodule "ft_transcendence"]
+	path = ft_transcendence
+	url = https://github.com/ixu42/ft_transcendence.git
