@@ -1,6 +1,6 @@
 # 42cursus
 
-A collection of projects completed at Hive Helsinki (École 42). Coding in C and C++.
+A collection of projects completed at Hive Helsinki (École 42). Coding mostly in C, C++, and Python.
 
 ## libft
 
